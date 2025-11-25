@@ -1,2 +1,4 @@
-# cloud-resume-challenge
-2025 Cloud Resume Challenge BootCamp - ExamPro
+# Cloud Resume Challenge
+
+## Projects
+- [Frontend](./frontend/readme.md)
