@@ -18,3 +18,14 @@ Please use the least amount of css tags
 ![](./docs/resume_screenshot.png)
 
 This is the [generated output](./docs/resume_template.html) which I will refactor.
+
+This is what the generated HTML looks like unaltered:
+
+![](./docs/resume_rendered.PNG)
+
+## HTML Adjustments
+
+- UTF8 will support most languages, I plan to use English alone - this metatag stays.
+- Because we will be applying mobile styling to our website, we'll include the viewport metatag width=device-width so mobile styling scales normally.
+- We'll extract our styles into its own stylesheet after we're happy with our HTML markup
+- We'll simplify our HTML markup css selectors to be as minimal as possible
