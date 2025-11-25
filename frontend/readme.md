@@ -15,7 +15,7 @@ Prompt to Claude:
 Please use the least amount of css tags
 '''
 
-![](./docs/resume_screenshot.png)
+![](./docs/resume_screenshot.PNG)
 
 This is the [generated output](./docs/resume_template.html) which I will refactor.
 
